@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C00D9E97-2BB2-4876-8EE3-94B658BF8230"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "439858B4-AE81-4BCA-B4DD-8594BB83FB7B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WidgetsKullanimi/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "buttonG&#xf6;ster(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "439858B4-AE81-4BCA-B4DD-8594BB83FB7B - d6f8f27970861141"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WidgetsKullanimi.ViewController.segmentedDegisim(__C.UISegmentedControl) -&gt; ()"
+                  moduleName = "WidgetsKullanimi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ebru/Desktop/ios_bootcamp/WidgetsKullanimi/WidgetsKullanimi/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "439858B4-AE81-4BCA-B4DD-8594BB83FB7B - 223a606edfc74d40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WidgetsKullanimi.ViewController.buttonG&#xf6;ster(Any) -&gt; ()"
+                  moduleName = "WidgetsKullanimi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ebru/Desktop/ios_bootcamp/WidgetsKullanimi/WidgetsKullanimi/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
